@@ -57,6 +57,6 @@ This project implements a **traffic sign detection system** using **YOLOv8** wit
 
 ### **Data Split**
 ```python
-Train:     518 images (70%)
-Validation: 111 images (15%)
-Test:      111 images (15%)
+Train:     7800 images (70%)
+Validation: 1700 images (15%)
+Test:      1300 images (15%)
